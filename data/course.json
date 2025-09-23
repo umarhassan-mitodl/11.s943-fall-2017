@@ -1,0 +1,53 @@
+{
+  "term": "Fall",
+  "year": "2017",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Urban Studies"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ]
+  ],
+  "legacy_uid": "a46f1a83-2a86-25bf-e0dd-33d08b55a0c6",
+  "instructors": {
+    "content": [
+      "68231067-238c-b360-94c4-466caa2987fd",
+      "c2265843-fb70-4cfe-52a2-1d8f2508118b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "fbcc34b8-e5cc-0e40-1c99-d134908720c8",
+    "website": "11-s943-development-planning-and-implementation-the-dialectic-of-theory-and-practice-fall-2017"
+  },
+  "course_title": "Development, Planning, and Implementation: The Dialectic of Theory and Practice",
+  "course_description": "This is an advanced graduate-level seminar that will analyze the effectiveness of development and planning theories from the perspective of practitioners who implement projects and policies based on such theories. The course will be organized around 12 implementation puzzles, which should be considered for re-theorizing both developmental and planning processes.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.S943",
+  "course_image_thumbnail": {
+    "content": "f6593733-b414-a9f5-41ab-10f846c7e98b",
+    "website": "11-s943-development-planning-and-implementation-the-dialectic-of-theory-and-practice-fall-2017"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "e2d9ca04-1353-41fe-a863-ffd82f7162d2",
+  "site_short_id": "11.s943-fall-2017",
+  "site_url_path": "courses/11-s943-development-planning-and-implementation-the-dialectic-of-theory-and-practice-fall-2017",
+  "title": "Course Metadata"
+}
