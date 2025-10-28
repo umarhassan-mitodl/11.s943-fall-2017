@@ -22,7 +22,7 @@ Introduction—The rationale for the course: why is it important to understand t
 
 **Required Readings:**
 
-Hack, G. (2015). "[Designing Cities and the Academy](https://www.tandfonline.com/doi/full/10.1080/01944363.2015.1053510)." *Journal of the American Planning Association*, 81(3), 221-229.
+Hack, G. (2015). "{{% resource_link "3b61fa1a-816f-42a9-9297-23a45aa2203f" "Designing Cities and the Academy" %}}." *Journal of the American Planning Association*, 81(3), 221-229.
 
  Friedmann, J. (2002). "A Life in Planning." In *The Prospect of Cities*. U of Minnesota Press. – Ch 7. ISBN: 9780816638840.
 
@@ -38,19 +38,19 @@ Overview of conventional theories of development, planning, and implementation
 
 **Required Readings:**
 
-Rostow, W. W. (1959). "[The Stages of Economic Growth](https://www.jstor.org/stable/2591077?seq=1#page_scan_tab_contents)." *The Economic History Review,* 12(1), 1.
+Rostow, W. W. (1959). "{{% resource_link "f7c7cdc2-7422-469b-a88d-878edfc934de" "The Stages of Economic Growth" %}}." *The Economic History Review,* 12(1), 1.
 
-Lewis, A. (1951). "[Measures for the Economic Development of Under-Developed Countries](https://digitallibrary.un.org/record/708544)." United Nations, New York.
+Lewis, A. (1951). "{{% resource_link "0ded306b-749c-4992-8141-5e2d9d214546" "Measures for the Economic Development of Under-Developed Countries" %}}." United Nations, New York.
 
 **Optional Readings:**
 
  Meier, G. (1984) Introduction. In Meier, G. M., & Seers, D. (Eds.). *Pioneers in Development* *(Vol. 375)*. New York: Oxford University Press. ISBN: 9780195205428.
 
-Rosenstein-Rodan, P. N. (1943). "[Problems of Industrialisation of Eastern and South-Eastern Europe](https://www.jstor.org/stable/2226317?seq=1#page_scan_tab_contents)." *The Economic Journal*, 202-211.
+Rosenstein-Rodan, P. N. (1943). "{{% resource_link "fc66d209-5337-4c2d-807d-24cd2751ee64" "Problems of Industrialisation of Eastern and South-Eastern Europe" %}}." *The Economic Journal*, 202-211.
 
-Weintraub, D. (1948). "[International Approaches to Economic Development of Undeveloped Areas](https://www.milbank.org/quarterly/articles/international-approaches-to-economic-development-of-undeveloped-areas/)." *The Milbank Memorial Fund Quarterly*, 260-268.
+Weintraub, D. (1948). "{{% resource_link "520ae459-7d3a-4cad-bd86-94db8f50a201" "International Approaches to Economic Development of Undeveloped Areas" %}}." *The Milbank Memorial Fund Quarterly*, 260-268.
 
-Sutcliffe, R. B. (1964). "[Balanced and Unbalanced Growth](https://www.jstor.org/stable/1879659?seq=1#page_scan_tab_contents)." *The Quarterly Journal of Economics*, 78 (4), 621-640.
+Sutcliffe, R. B. (1964). "{{% resource_link "372e932d-e34a-4ad6-a239-689d8f82eccb" "Balanced and Unbalanced Growth" %}}." *The Quarterly Journal of Economics*, 78 (4), 621-640.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -60,7 +60,7 @@ One modernity or multiple modernities?
 
 **Required Readings:**
 
-Mazlish, B. (1963). "[The Idea of Progress](https://www.jstor.org/stable/20026791?seq=1#page_scan_tab_contents)." *Daedalus*, 92 (3), 447-461.
+Mazlish, B. (1963). "{{% resource_link "d77a190c-518e-403e-83ae-80f540cf3bc4" "The Idea of Progress" %}}." *Daedalus*, 92 (3), 447-461.
 
 Scott, J. C. (1998). "Authoritarian High Modernism." In *Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed*, Yale University Press, 87-102. ISBN: 9780300078152.
 
@@ -68,7 +68,7 @@ Scott, J. C. (1998). "Authoritarian High Modernism." In *Seeing Like a State: H
 
  Ferguson, J. (2005). "Decomposing Modernity: History and Hierarchy after Development." In Anna Loomba et al. (Eds).  *Postcolonial Studies and Beyond*, Duke University Press, 166-181. ISBN: 978082235238. 
 
-Eisenstadt, S. N. (2000). "[Multiple Modernities](http://blog.wbkolleg.unibe.ch/wp-content/uploads/Eisenstadt_Multiple-Modernities.pdf)." *Daedalus*, 129 (1).
+Eisenstadt, S. N. (2000). "{{% resource_link "cf9c9dac-73e9-48f9-b4c0-3a59b7943298" "Multiple Modernities" %}}." *Daedalus*, 129 (1).
 
  Geertz, C. (1996). "Modernities." In Geertz, C.  *After the Fact: Two Countries, Four Decades, One Anthropologist*. Harvard University Press. ISBN: 9780674008724. 
 
@@ -100,7 +100,7 @@ Bottom-up versus top-down development?
 
 **Required Readings:**
 
-Tendler, J. (1989). "[What Ever Happened to Poverty Alleviation?](https://www.sciencedirect.com/science/article/pii/0305750X89901666)" *World Development*, 17(7), 1033-1044.
+Tendler, J. (1989). "{{% resource_link "db0e32e9-ea7a-427e-8b57-d8f4262ca3da" "What Ever Happened to Poverty Alleviation?" %}}" *World Development*, 17(7), 1033-1044.
 
 Evans, P. B., Rueschemeyer, D., & Skocpol, T. (1985). *Bringing the State Back In*. Cambridge University Press. – Ch 2. ISBN: 9780521313131. 
 
@@ -118,15 +118,15 @@ Comprehensive versus incremental planning
 
 **Required Readings:**
 
-Andrews, M., Pritchett, L., & Woolcock, M. (2013). "[Escaping Capability Traps Through Problem Driven Iterative Adaptation (PDIA)](https://www.cgdev.org/publication/escaping-capability-traps-through-problem-driven-iterative-adaptation-pdia-working-paper)." Working Paper 299. *World Development*, 51, 234-244.
+Andrews, M., Pritchett, L., & Woolcock, M. (2013). "{{% resource_link "317a1f4c-bb3d-4535-9dcf-3bd17a0b1356" "Escaping Capability Traps Through Problem Driven Iterative Adaptation (PDIA)" %}}." Working Paper 299. *World Development*, 51, 234-244.
 
-Altshuler, A. (1965). "[The Goals of Comprehensive Planning](https://www.tandfonline.com/doi/abs/10.1080/01944366508978165)." *Journal of the American Institute of Planners*, 31(3), 186-195.
+Altshuler, A. (1965). "{{% resource_link "e1e7c50d-fd0d-4da3-995d-4c41ce6766e8" "The Goals of Comprehensive Planning" %}}." *Journal of the American Institute of Planners*, 31(3), 186-195.
 
 **Optional Readings:**
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262016490)  Medina, E. (2011). *Cybernetic Revolutionaries: Technology and Politics in Allende's Chile*. MIT Press. Intro + Ch 7. ISBN: 9780262525961. 
+{{% resource_link "a3a33c41-517f-407e-b32c-aee0db6c9e0b" "![Buy at MIT Press](/images/mp_logo.gif)" %}}  Medina, E. (2011). *Cybernetic Revolutionaries: Technology and Politics in Allende's Chile*. MIT Press. Intro + Ch 7. ISBN: 9780262525961. 
 
-Lindblom, C. E. (1959). "[The Science of 'Muddling Through'](https://www.jstor.org/stable/973677?seq=1#page_scan_tab_contents)." *Public Administration Review*, 19 (2), 79-88. 
+Lindblom, C. E. (1959). "{{% resource_link "d13934b2-e1e1-4f11-a660-c32ad6150604" "The Science of 'Muddling Through'" %}}." *Public Administration Review*, 19 (2), 79-88. 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -136,15 +136,15 @@ Under what conditions do public sector institutions perform well?
 
 **Required Readings:**
 
-Grindle, M. S., & Hilderbrand, M. E. (1995). "[Building Sustainable Capacity in the Public Sector: What Can Be Done?](https://onlinelibrary.wiley.com/doi/abs/10.1002/pad.4230150502)" *Public Administration & Development* (1986-1998), 15(5), 441.
+Grindle, M. S., & Hilderbrand, M. E. (1995). "{{% resource_link "99dbdab3-69f3-4fde-9e70-7e7ac328fe99" "Building Sustainable Capacity in the Public Sector: What Can Be Done?" %}}" *Public Administration & Development* (1986-1998), 15(5), 441.
 
 Roll, M. (Ed.). (2014). *The Politics of Public Sector Performance: Pockets of Effectiveness in Developing Countries*. Routledge. ISBN: 9781138956391. 
 
 **Optional Readings:**
 
-Pires, R. R. C. (2011). "[Beyond the Fear of Discretion: Flexibility, Performance, and Accountability in the Management of Regulatory Bureaucracies](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1748-5991.2010.01083.x)." *Regulation & Governance*. Volume 5, Issue 1, pages 43–69.
+Pires, R. R. C. (2011). "{{% resource_link "40334cfe-07f9-4704-bfdc-b22de9a7895a" "Beyond the Fear of Discretion: Flexibility, Performance, and Accountability in the Management of Regulatory Bureaucracies" %}}." *Regulation & Governance*. Volume 5, Issue 1, pages 43–69.
 
-Evans, P. (1997). "[Development Strategies Across the Public Private Divide](https://www.sciencedirect.com/science/article/pii/0305750X96000149)." In Evans, P. (1997). *State-Society Synergy: Government and Social Capital in Development*. University of California International. ISBN: 97808577251941. 
+Evans, P. (1997). "{{% resource_link "89b215e8-0fa3-4995-a81d-5cecfe47bb7a" "Development Strategies Across the Public Private Divide" %}}." In Evans, P. (1997). *State-Society Synergy: Government and Social Capital in Development*. University of California International. ISBN: 97808577251941. 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -160,11 +160,11 @@ Hoch, C. (1994). *What Planners Do: Power, Politics, and Persuasion*. American P
 
 **Optional Readings:**
 
-Natsios, A. (2011). "[The Clash of the Counter-bureaucracy and Development](https://www.cgdev.org/publication/clash-counter-bureaucracy-and-development)." Center for Global Development.
+Natsios, A. (2011). "{{% resource_link "12ff68da-d62f-4c48-8418-1bdf9f42f1bb" "The Clash of the Counter-bureaucracy and Development" %}}." Center for Global Development.
 
  Brooks, M. P. (2002). "The Political Savvy Planner." In Brooks, M. P. (2002). *Planning Theory for Practitioners*. Amer Planning Assn. ISBN: 9781884829598. 
 
-Sanyal, B. (2005). "[Planning as Anticipation of Resistance](http://journals.sagepub.com/doi/10.1177/1473095205058495)." *Planning Theory*, 4(3), 225-245.
+Sanyal, B. (2005). "{{% resource_link "00207d8f-14b4-43f0-9fc1-2298291a9405" "Planning as Anticipation of Resistance" %}}." *Planning Theory*, 4(3), 225-245.
 
  Grindle, M. S., & Thomas, J. W. (1991). "Finding Room for Maneuver." In *Public Choices and Policy Change: The Political Economy of Reform in Developing Countries*. JHU Press. P. 182–194.  ISBN: 9780801841569. 
 
@@ -176,7 +176,7 @@ How do development professionals define what is ethical practice?
 
 **Required Readings**
 
-Sanyal, B. (2002). "[Globalization, Ethical Compromise and Planning Theory](http://journals.sagepub.com/doi/10.1177/147309520200100202)." *Planning Theory* 1(2), 116-123.
+Sanyal, B. (2002). "{{% resource_link "738ae341-d632-4290-b265-df9ab3bc1e05" "Globalization, Ethical Compromise and Planning Theory" %}}." *Planning Theory* 1(2), 116-123.
 
  Bazerman, M. H., & Tenbrunsel, A. E. (2011). *Blind Spots: Why We Fail To Do What's Right and What To Do About It*. Princeton University Press. – Ch 2. ISBN: 9780691156224. 
 
@@ -196,19 +196,19 @@ Rigidity versus flexibility
 
 **Required Readings:**
 
-Jain, P. S. (1996). "[Managing Credit for the Rural Poor: Lessons from the Grameen Bank](https://www.sciencedirect.com/science/article/pii/0305750X9500116T)." *World Development*, 24(1), 79-89.
+Jain, P. S. (1996). "{{% resource_link "0c031595-de4c-488d-ac2c-a5fecad80419" "Managing Credit for the Rural Poor: Lessons from the Grameen Bank" %}}." *World Development*, 24(1), 79-89.
 
 Tendler, J. (1997). *Good Government in the Tropics*. Johns Hopkins University Press. Ch. 6. ISBN: 9780801860928.
 
 **Optional Readings**
 
-Jain, P. S. (1994). "[Managing for Success: Lessons from Asian Development Programs](https://www.sciencedirect.com/science/article/pii/0305750X94900094)." *World Development*, 22(9), 1363-1377.
+Jain, P. S. (1994). "{{% resource_link "03d5c833-7fee-4309-9217-c02aae1defa6" "Managing for Success: Lessons from Asian Development Programs" %}}." *World Development*, 22(9), 1363-1377.
 
-Brinkerhoff, D. W., & Ingle, M. D. (1989). "[Integrating Blueprint and Process: A Structured Flexibility Approach to Development Management](https://onlinelibrary.wiley.com/doi/abs/10.1002/pad.4230090503)." *Public Administration and Development* 9(5), 487-503.
+Brinkerhoff, D. W., & Ingle, M. D. (1989). "{{% resource_link "ace74746-8613-4c38-8772-75e523c99ec9" "Integrating Blueprint and Process: A Structured Flexibility Approach to Development Management" %}}." *Public Administration and Development* 9(5), 487-503.
 
-Graziano da Silva, J. F., Del Grossi, M. E., & de França, C. G. (2013). [*Fome Zero (Zero Hunger) Program*](http://www.fao.org/docrep/016/i3023e/i3023e00.htm). Ministry of Agrarian Development.
+Graziano da Silva, J. F., Del Grossi, M. E., & de França, C. G. (2013). {{% resource_link "6b2d1df1-6d3c-455e-ba84-a46c4c514c07" "*Fome Zero (Zero Hunger) Program*" %}}. Ministry of Agrarian Development.
 
-Levy, S. (2007). "[Progress Against Poverty: Sustaining Mexico's Progresa-Oportunidades Program](http://www.jstor.org/stable/10.7864/j.ctt6wpfjp)." Brookings Institution Press.
+Levy, S. (2007). "{{% resource_link "de65571d-686e-4e99-a663-503d83491587" "Progress Against Poverty: Sustaining Mexico's Progresa-Oportunidades Program" %}}." Brookings Institution Press.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -220,7 +220,7 @@ Modes of evaluation: what is useful knowledge for practitioners?
 
 Sabel, C. (1993). "Learning by Monitoring: The Institutions of Economic Development." In *Handbook of Economic Sociology*, Edited by Neil Smelser and Richard Swedberg. Princeton: Princeton University Press. ISBN: 9780691121260.
 
-Hirschman, A. O. (2011). "[Development Projects Observed](https://www.brookings.edu/book/development-projects-observed/)." Brookings Institution Press. – Ch. 5.
+Hirschman, A. O. (2011). "{{% resource_link "4eb3ec4e-07d0-43d8-867b-7a95c46d1c95" "Development Projects Observed" %}}." Brookings Institution Press. – Ch. 5.
 
 **Optional Readings:**
 
@@ -240,7 +240,7 @@ The social construction of learning institutions
 
 **Required Readings:**
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262517683) Sanyal, B., Vale, L. J., & Rosan, C. (2012). *Planning Ideas That Matter: Livability, Territoriality, Governance, and Reflective Practice*. MIT Press. – Ch. 12. ISBN: 9780262517683. 
+{{% resource_link "574e469c-6933-4db1-9ac2-c5b8c73c5828" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Sanyal, B., Vale, L. J., & Rosan, C. (2012). *Planning Ideas That Matter: Livability, Territoriality, Governance, and Reflective Practice*. MIT Press. – Ch. 12. ISBN: 9780262517683. 
 
  Argyris, C. (2004). *Reasons and Rationalizations: The Limits to Organizational Knowledge: The Limits to Organizational Knowledge*. Oxford University Press. – Ch. 7. ISBN: 9780199286829.
 
@@ -266,6 +266,6 @@ Surety of purpose or humility of not knowing the answer?
 
  Schon, D. (1983). *The Reflecive Practitioner: How Professionals Think in Action.* Basic Books. Pg. 287–354. ISBN: 9780465068784.
 
-Forester, J. (2006). "[Policy Analysis as Critical Listening](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199548453.001.0001/oxfordhb-9780199548453-e-006)." *The Oxford Handbook of Public Policy,* 6, 124.
+Forester, J. (2006). "{{% resource_link "f791afa1-682b-4171-8ba6-03f8a94dc252" "Policy Analysis as Critical Listening" %}}." *The Oxford Handbook of Public Policy,* 6, 124.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
