@@ -20,7 +20,7 @@ MIT students must receive the permission of the instructor.
 Course Description
 ------------------
 
-The course will begin with a review of conventional theories of development, planning, and implementation to set the stage for critical reviews of how such theories actually unfolded in practice. Then, drawing on the implementation experiences of projects and policies, the conventional theories will be revised particularly to fit organizational constraints which influence implementation outcomes. The ultimate goal is to create new planning sensibilities, which theorize from practice, not the other way around. Students will be required to focus on any one of the implementation puzzles discussed in the class and write a paper on the multiple facets of any such puzzle. This kind of an understanding can lead to re-conceptualization of the developmental process, as nations develop, cities grow, and planning is practiced by professionals who do not conceptualize the process as either "top-down" or "bottom-up", but seek an understanding of the connection between the two levels. Since the central purpose of the course is to cultivate a conversation between theory and practice, this class will be open to both graduate students and the [Special Program for Urban and Regional Studies (SPURS)-Humphrey Fellows](https://dusp.mit.edu/idg/project/special-program-urban-and-regional-studies-spurs).
+The course will begin with a review of conventional theories of development, planning, and implementation to set the stage for critical reviews of how such theories actually unfolded in practice. Then, drawing on the implementation experiences of projects and policies, the conventional theories will be revised particularly to fit organizational constraints which influence implementation outcomes. The ultimate goal is to create new planning sensibilities, which theorize from practice, not the other way around. Students will be required to focus on any one of the implementation puzzles discussed in the class and write a paper on the multiple facets of any such puzzle. This kind of an understanding can lead to re-conceptualization of the developmental process, as nations develop, cities grow, and planning is practiced by professionals who do not conceptualize the process as either "top-down" or "bottom-up", but seek an understanding of the connection between the two levels. Since the central purpose of the course is to cultivate a conversation between theory and practice, this class will be open to both graduate students and the {{% resource_link "47831bb5-ddba-42f5-b064-cda37b5916d9" "Special Program for Urban and Regional Studies (SPURS)-Humphrey Fellows" %}}.
 
 Learning Objectives
 -------------------
@@ -36,7 +36,7 @@ Course Format and Structure
 
 Each class will start with a lecture on each of the debates, followed by a seminar style discussion, in which students are expected to participate actively. The students will need to read the assigned material in advance as a way to prepare for an extensive in-class discussion. The weekly meetings will be organized around the implementation-related debates, with the co-instructors taking the lead.
 
-Students will be required to attend three panel discussions at the [Department of Urban Studies and Planning](https://dusp.mit.edu/) on issues of implementation by leading scholars in the field. These panels are scheduled for dates and times yet to be determined.
+Students will be required to attend three panel discussions at the {{% resource_link "504cebf0-da03-4101-b1c6-e51246d1c88a" "Department of Urban Studies and Planning" %}} on issues of implementation by leading scholars in the field. These panels are scheduled for dates and times yet to be determined.
 
 We will also use online resources for information sharing, and to promote discussions on the challenges of implementation development policies and projects. 
 
@@ -125,4 +125,4 @@ Additional Requirements
 
 **Statement on Class Conduct:** I expect students to behave respectfully in class, which includes politeness towards the classmates and the instructor (e.g. giving others the chance to speak), as well as full engagement with the classroom activities (no browsing on the internet and social media allowed during class).
 
-**Plagiarism will not be tolerated! Please consult** [Institute Guidelines](http://integrity.mit.edu/handbook/what-plagiarism)**.**
+**Plagiarism will not be tolerated! Please consult** {{% resource_link "b5340298-a744-418b-b4f0-fa378bc0c72a" "Institute Guidelines" %}}**.**
